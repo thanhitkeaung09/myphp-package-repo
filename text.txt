@@ -1,0 +1,14 @@
+composer require intervention/image
+
+composer require mpdf/mpdf
+
+vendor လိုချင် ရင်
+
+composer.json ထဲက file ကို composer install
+
+milon php barcode
+
+
+copy ကူးသိမ်း
+
+cp index.php mpdf-test.php
